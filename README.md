@@ -11,7 +11,8 @@
 ## 🔹 Featured Projects
 - **Fraud Detection with Feature Engineering**  
   Built an ML pipeline using clustering-based features as well as other engineered features to detect fraudulent transactions.  
-  🔗 [Repository link]
+  🔗 [fraud-detection-clustering-feature-engineering]
+
 
 - **Cancer Type Classification**  
   Multi-class classification with emphasis on ethical evaluation and model limitations.  
